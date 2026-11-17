@@ -10,16 +10,38 @@
 [![DSS-14.2 Gate](https://img.shields.io/badge/DSS--14.2-%E2%89%A48_FFPs_Verified-34d399)](#function-feature-pair-ffp-manifest)
 
 > **RASA-X-MACHINA Sovereign Polyglot Systems · Makers of `tianxiaOS`**
-> *Entity Candor: **RASA-X-MACHINA** — Dealum Application `#179423` under active Estonian Startup Committee evaluation (§ 100¹ of the Estonian Aliens Act · Proposed entity upon approval: **RASA-X-MACHINA OÜ**, Tallinn, Estonia)*
+> *Entity Candor: **RASA-X-MACHINA** — Dealum Application `#179423` under active Estonian Startup Committee evaluation (Estonian Aliens Act `VMS § 62⁴(2) & § 192` · Proposed entity upon approval: **RASA-X-MACHINA OÜ**, Tallinn, Estonia)*
 > **Live Surface:** [tracer.rasaxmachina.com](https://tracer.rasaxmachina.com) · **Press & Brand Kit:** [rasaxmachina.com/press](https://rasaxmachina.com/press) · **Founder:** [rasaxmachina.com/collins](https://rasaxmachina.com/collins) · **Secure WhatsApp Relay:** [rasaxmachina.com/whatsapp](https://rasaxmachina.com/whatsapp)
 
 **Murua** is the standalone **Tier-3 Cross-Border Logistics Telemetry & Chargeback-Defense Organism** (`<= 8` FFPs) of **RASA-X-MACHINA**. Combining Barabási heavy-tail transit burstiness estimation, UPU 2IPD shadow-mesh corridor telemetry, escrow release actuation, and automated UPU `CN08` reclamation evidence synthesis, Murua reduces false cross-border Item-Not-Received (`INR`) payment disputes by **`62.4%`** across untracked international consignments.
 
+<!-- BUILD_LAW_SHOWCASE_START -->
+
 ---
 
+## 🌍 In Plain English — What `MURUA` Is & Why It Matters (Layman's Guide)
+
+- **The Everyday Problem:** Cross-border online merchants lose millions each year when international parcels go dark between postal customs hubs—triggering premature 'Item Not Received' (`INR`) refunds and payment-processor freezes right before the package actually arrives.
+- **How It Works (Without the Jargon):** `MURUA` models international postal handoffs (`UPU S10` / `CN08` corridors) using Bayesian state-space statistics to predict accurate customs clearance and terminal delivery windows even when carrier scans go silent.
+- **Why It Is Different:** Forged from real FinTech dispute-resolution experience and governed by **[Build Law](https://github.com/Tianxia-Core/Build-Law)**, `MURUA` reduces false `INR` chargebacks by **`62.4%`**.
+- **How It Benefits You:** Cross-border merchants keep customer trust high, protect their Stripe/Payfac dispute ratios, and recover revenue previously lost to blind transit gaps.
+- **How to Install & Use It in 60 Seconds:** Try the live consignment workbench at **[tracer.rasaxmachina.com](https://tracer.rasaxmachina.com)** or integrate via its JSON API and Rust/Python CLI.
+
+---
+
+## 🏛️ Governed by [`Build Law`](https://github.com/Tianxia-Core/Build-Law) — Engineering Philosophy & Stakeholder Pathways
+
+This repository is a live production showcase of **[`Build Law`](https://github.com/Tianxia-Core/Build-Law)**—the open-source (`MIT`) **4-Pillar, 14-Gate Constitutional Engineering & `5.0×–8.8×` Token-Efficiency Standard** created by **[Collins Takem](https://rasaxmachina.com/collins)** (**RASA-X-MACHINA**):
+- **Developers & AI Builders:** Drop **[`Build Law`](https://github.com/Tianxia-Core/Build-Law)** into Claude Code, Cursor, OpenCode, VS Code (`.vsix`), GitHub Copilot, Windsurf, Cline, Aider, or any chat LLM in 60 seconds.
+- **CTOs & B2B Engineering Leaders:** Need similar `Rust`/`Go`/`Nix`/Security/FinOps rigor applied to your infrastructure? Scope a fixed-price **72-Hour `VRTTI` Architecture Sprint** at **[vrtti.rasaxmachina.com](https://vrtti.rasaxmachina.com)**.
+- **Investors, Researchers, Press & Executive Hiring Committees:** Inspect our cryptographic release proofs across **[`@Tianxia-Core`](https://github.com/Tianxia-Core)**, press assets at **[rasaxmachina.com/press](https://rasaxmachina.com/press)**, and founder dossier at **[rasaxmachina.com/collins](https://rasaxmachina.com/collins)**.
+
+<!-- BUILD_LAW_SHOWCASE_END -->
+
+---
 ## Frontline-to-Founder Engineering Lineage
 
-Architected by **Collins Takem** — forged from **10+ years on the FinTech incident-triage and ledger-forensics front lines** (*Blockchain.com*, *CoinLedger*, *SQUIRE*) while completing a Dual Major in **Pure Mathematics & Computer Science at SUNY (`4.00 / 4.00` GPA)**, followed by **3+ years** building **`tianxiaOS`** and its self-hosted autonomous compiler harnesses.
+Architected by **Collins Takem** — forged from **10+ years on the FinTech incident-triage and ledger-forensics front lines** (*Blockchain.com*, *CoinLedger*, *SQUIRE*) while completing a Dual Major in **Pure Mathematics & Computer Science at SUNY (`4.00 / 4.00` GPA)**, culminating in **`tianxiaOS`** (sovereign operating substrate, genesis `16 April 2026`) and its self-hosted autonomous compiler harnesses.
 
 ---
 
